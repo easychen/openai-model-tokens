@@ -1,0 +1,18 @@
+{
+  "name": "openai-model-tokens",
+  "version": "1.0.0",
+  "description": "A package to get the maximum token count for OpenAI models",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openai",
+    "model",
+    "tokens"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/easychen/openai-model-tokens.git",
+  "author": "Easy <easychen@qq.com>",
+  "license": "MIT",
+  "type": "module"
+}
